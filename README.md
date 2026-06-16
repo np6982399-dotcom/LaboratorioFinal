@@ -1,2 +1,4 @@
 # LaboratorioFinal
-- Gabriela Interiano
+Integrantes:
+- Gabriela Nicole Interiano Perez
+- Julissa Raquel Vega Ramirez
