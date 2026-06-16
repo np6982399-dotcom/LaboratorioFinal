@@ -40,4 +40,3 @@ public class DetalleVenta {
 	               ", cantidad=" + cantidad + ", subtotal=" + subtotal + "}";
 	    }
 	}
-}
